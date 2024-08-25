@@ -1,0 +1,3 @@
+[submodule "payloadcms-website-template"]
+	path = payloadcms-website-template
+	url = https://github.com/MohmDev/payloadcms-website-template.git
